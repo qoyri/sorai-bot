@@ -11,6 +11,8 @@ const prefix2 = "!so disco";
 
 Client.on("ready", () => {
   console.log("bot ok");
+  bot.user.SetStatus("dnd");
+  bot.user.SetActivity("hang out with qoyri ^^ ");
 });
 
 Client.on("message", message => {
