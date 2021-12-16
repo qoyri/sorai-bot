@@ -20,6 +20,36 @@ Client.on("message", message => {
   if(message.content == "!so"){
     message.reply("ouaip ?");
   }
+  if(message.content == "j'suis où...j'suis qui ?"){
+   message.reply("enchanté où j'suis qui");
+  } 
+  if(message.content == "annonce moi une bonne nouvelle"){
+   message.reply("Tu es condamné à mort !!");
+  } 
+  if(message.content == "sorai il ne faut jamais..."){
+   message.reply("Mettre sa tête dans une friteuse");
+  } 
+  if(message.content == "espece de face de cernes"){
+   message.reply("Nan ça c'était à chier");
+  } 
+  if(message.content == "on fait quoi aujourd'hui ?"){
+   message.reply("je sais pas mais t'as 30 ans et j'suis mineur");
+  } 
+  if(message.content == "je suis Français"){
+   message.reply("BAGUETTE");
+  } 
+  if(message.content == "dit quelque chose d'intelligent"){
+   message.reply("Les coccinelle sont des coléoptère");
+  } 
+  if(message.content == "saloperie de titan !"){
+   message.reply("Alors on dit pas Titans c'est super péjoratif !");
+  } 
+  if(message.content == "j'aime le viol"){
+   message.reply("le violet enfin... le violet");
+  } 
+  if(message.content == "SUKUNA ça sonne Italien"){
+   message.reply("j'suis un démon japonais connard");
+  } 
   if(message.content == "!so help"){
     message.reply("voici la liste des commandes possibles (attention ils existent d'autres commandes qui ne sont pas référencer car se sont des easter-eggs a vous de trouver !) : !so , !so info , !so je t'aime , !so youtube , !so tik tok , !so discord , !so help");
   }
