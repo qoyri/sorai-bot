@@ -410,8 +410,8 @@ if(message.content == "Ces créatures sont réputés pour leur grande capacité 
 if(message.content == "si je prends Kirito comme temoin à mon mariage est-ce qu'il portera un Kiritoast ?!"){
  message.reply("Elles sont de plus en plus connes vos questions !");
 } 
-if(message.content == "@sorai, nan toi tu nique ta mère"){
-message.reply("nan toi niques ta mère");
+if(message.content == "nan toi tu nique ta mère"){
+message.reply("nan toi tu niques ta mère");
 } 
 });
 
