@@ -191,6 +191,105 @@ if(message.content == "CONNARD"){
 if(message.content == "https://media.discordapp.net/attachments/637994255410921473/852710893905379368/speed-1.gif"){
   message.reply("AMOGUS");
 }
+ 
+if(message.content == "OU EST-CE QUE T'A PLANQUE LE SEL ENFOIRE"){
+ message.reply("VU TA GRANDE GUEULE T'ES UNE RESERVE DE SEL A TOI TOUT SEUL");
+} 
+
+if(message.content == "c'est quoi les 3 factions ?"){
+ message.reply("La Garnison qui s'occupe de l'entretien des murs et qui sert surtout d'appât pour se faire bouffer, Le Bataillon d'Exploration qui eux se font bouffer à l'extérieur des murs et les Brigades Spéciales qui vivent OKLM comme des bourges bien en sécurité et probablement ceux qui vivront le plus longtemps");
+} 
+
+if(message.content == "tu viens de rater une cible de plus de 50 metre de haut"){
+ message.reply("C'EST LE CUL D'TA MERE QUI FAIT 50 METRE DE HAUT")
+} 
+
+if(message.content == "battez vous pour la survie de l'humanité"){
+ message.reply("FUYEZ POUR VOS VIES. LES FEMMES ET LES ALLEMANDS D'ABORD");
+} 
+
+if(message.content == "joyeux noel Sorai"){
+ message.reply("Santa Claus ?");
+} 
+
+if(message.content == "j'ai un cadeau très spécial pour toi au fond de mon gros bidon"){
+ message.reply("Ah ah j'espère que c'est une trottinette !");
+} 
+
+if(message.content == "mon père est mort"){
+ message.reply("Où est ma chambre bande d'enculé ?");
+} 
+
+if(message.content == "qui c'est qui est un gros enculé ?!"){
+ message.reply("C'est moi, SORAI");
+} 
+
+if(message.content == "mettez c'masque !"){
+ message.reply("Wouaw c'est fantastique ! Ma peau retrouve l'éclat de ses 20 ans *");
+} 
+
+if(message.content == "OH NON JE BRULE"){
+ message.reply("C'est l'principe du feu connard");
+} 
+
+if(message.content == "Maman ! y'a encore un drogué dans le jardin"){
+ message.reply("Ca c'est se que je dirais si maman étais pas morte");
+} 
+
+if(message.content == "j'te jure que le prochain mec qui m'aborde j'le castre avec les dents"){
+ message.reply("Ok j'suis une fille pour les 48 prochaines heures");
+} 
+
+if(message.content == "Sorai attention ! Des avaleurs"){
+ message.reply("Des avaleurs de Bihïtt !");
+} 
+
+if(message.content == "Ces créatures sont réputés pour leur grande capacité à sucer"){
+ message.reply("Du sang voyons !");
+} 
+
+if(message.content == "si je prends Kirito comme temoin à mon mariage est-ce qu'il portera un Kiritoast ?!"){
+ message.reply("Elles sont de plus en plus connes vos questions !");
+} 
+  if(message.content == "je dois l'arreter avant qu'il fasse une bétise"){
+ message.reply("t'façon t'es pas ma mère !");
+} 
+
+if(message.content == "wow t'es toujours en vie "){
+ message.reply("envie... de te bouffer !!");
+} 
+
+if(message.content == "tu m'as coupé"){
+ message.reply("Le prochain qui me l'à coupe c'est moi que je le coupe");
+} 
+
+if(message.content == "fait moi le coup de la fleufleur"){
+ message.reply("Demande moi ça encore une fois et tu vas voir où j'vais la mettre ta fleufleur");
+} 
+
+if(message.content == "il pluit commence à tomber"){
+ message.reply("Bah non il pleut pas là");
+} 
+
+if(message.content == "si il pleut..."){
+ message.reply("Bah non il pleut pas non.. parce que j'suis une femme je peux pas savoir si il pleut ou non ?! ");
+} 
+
+if(message.content == "tu n'as aucun sens de la poésie"){
+ message.reply("En plus ! AH BAH C'EST LE PONPON");
+} 
+
+if(message.content == "si je te fais un gros calinou tu me pardonne ?"){
+ message.reply("wouaw plus tu parles plus tu fais pitié");
+} 
+
+if(message.content == "JE SUIS UN SANGLIER"){
+ message.reply("Eh bah on a encore une belle brochette de vainqueurs");
+} 
+
+if(message.content == "d'où viennent les titans"){
+ message.reply("Bonne question mais comment le Caporal Livaï fait pour avoir le cheveu aussi fin");
+} 
 });
 
 Client.on("message", message => {
