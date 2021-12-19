@@ -227,9 +227,6 @@ if(message.content == "Maman ! y'a encore un drogué dans le jardin"){
 if(message.content == "j'te jure que le prochain mec qui m'aborde j'le castre avec les dents"){
  message.reply("Ok j'suis une fille pour les 48 prochaines heures");
 } 
-if(message.content == "Sorai attention ! Des avaleurs"){
- message.reply("Des avaleurs de Bihïtt !");
-} 
 if(message.content == "Ces créatures sont réputés pour leur grande capacité à sucer"){
  message.reply("Du sang voyons !");
 } 
