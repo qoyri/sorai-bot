@@ -203,9 +203,6 @@ if(message.content == "tu viens de rater une cible de plus de 50 metre de haut")
 if(message.content == "battez vous pour la survie de l'humanité"){
  message.reply("FUYEZ POUR VOS VIES. LES FEMMES ET LES ALLEMANDS D'ABORD");
 } 
-if(message.content == "joyeux noel Sorai"){
- message.reply("Santa Claus ?");
-} 
 if(message.content == "j'ai un cadeau très spécial pour toi au fond de mon gros bidon"){
  message.reply("Ah ah j'espère que c'est une trottinette !");
 } 
