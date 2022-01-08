@@ -395,9 +395,6 @@ if(message.content == "mettez c'masque !"){
 if(message.content == "OH NON JE BRULE"){
  message.reply("C'est l'principe du feu connard");
 } 
-if(message.content == "Maman ! y'a encore un drogué dans le jardin"){
- message.reply("Ca c'est se que je dirais si maman étais pas morte");
-} 
 if(message.content == "j'te jure que le prochain mec qui m'aborde j'le castre avec les dents"){
  message.reply("Ok j'suis une fille pour les 48 prochaines heures");
 } 
