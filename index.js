@@ -383,9 +383,6 @@ if(message.content == "joyeux noel Sorai"){
 if(message.content == "j'ai un cadeau très spécial pour toi au fond de mon gros bidon"){
  message.reply("Ah ah j'espère que c'est une trottinette !");
 } 
-if(message.content == "mon père est mort"){
- message.reply("Où est ma chambre bande d'enculé ?");
-} 
 if(message.content == "qui c'est qui est un gros enculé ?!"){
  message.reply("C'est moi, SORAI");
 } 
