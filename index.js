@@ -176,9 +176,7 @@ if(message.content == "c mon bot"){
 if(message.content == "^^lc qoyri sorai"){
   message.reply("c FÔÔÔ, qoyri et mwa c 100% de love pour la vie !! okéé ?! :rage: ");
 }
-if(message.content == "XDDD"){
-  message.reply("XDPTDR");
-}
+
 if(message.content == "enculé"){
   message.reply("de tes morts");
 }
