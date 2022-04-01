@@ -57,28 +57,13 @@ Client.on("message", message => {
     message.reply("mais euuuh");
   }
   if(message.content == "!so info"){
-    message.reply("HEY YO, moi c'est soraï, je suis un bot crée par @qoyri kun#7748, pour tout problème n'hésitez pas à contacter mon maître 😁");
+    message.reply("HEY YO, moi c'est soraï, je suis un bot crée par mon waifu qoyri#8888, pour tout problème n'hésitez pas à contacter mon waifu 😁");
   }
   if(message.content == "!so je t'aime"){
     message.reply("mwa auchi 😍")
   }
   if(message.content == "c'est pas gentil d'être méchant"){
       message.reply("mais tu oublis que ce n'est pas méchant d'être gentil !");
-  }
-  if(message.content == "?"){
-    message.reply("non rien");
-  }
-  if(message.content == "rocket league c'est de la merde"){
-    message.reply("tg tou wé moche !!");
-  }
-  if(message.content == "rocket league c de la merde"){
-    message.reply("tg tou wé moche !!");
-  }
-  if(message.content == "rl c'est de la merde"){
-    message.reply("tg tou wé moche !!");
-  }
-  if(message.content == "rl c de la merde"){
-    message.reply("tg tou wé moche !!");
   }
   if(message.content == "tg le bot"){
     message.reply("moi au moins j'ai été crée pour servir a quelque chose au moins")
@@ -104,8 +89,8 @@ if(message.content == "c pas gentil d etre mechant"){
 if(message.content == "prout"){
   message.reply("a se pépite de chocolat");
 }
-if(message.content == "envoie fesse"){
-  message.reply("moi je dit grosse fesse");
+if(message.content == "bite"){
+  message.reply("de poney");
 }
 if(message.content == "burger"){
   message.reply("pas maintenant Armin");
@@ -113,23 +98,14 @@ if(message.content == "burger"){
 if(message.content == "Burger"){
   message.reply("pas maintenant Armin");
 }
-if(message.content == "!so tik tok"){
-  message.reply("tik tok de qoyri : @qoyri kun (vidéo sur beat saber).");
-}
-if(message.content == "!so youtube"){
-  message.reply("youtube de qoyri : qoyri Kun.");
-}
-if(message.content == "!so ytb"){
-  message.reply("youtube de qoyri : qoyri Kun.");
-}
 if(message.content == "!so discord"){
-  message.reply("voici le pseudo de mon créateur si vous voulez le contacter : qoyri kun#7748");
+  message.reply("voici le pseudo de mon créateur si vous voulez le contacter : qoyri#8888");
 }
 if(message.content == "ara ara"){
-  message.reply("ara ara");
+  message.reply("ara ara senapï~");
 }
 if(message.content == "Ara ara"){
-  message.reply("ara ara");
+  message.reply("ara ara senapï~");
 }
 if(message.content == "y a quoi comme devoirs a faire"){
   message.reply("alors d'après se que j'ai dans mon planning je dois, venir chez toi manger ton pot de nutella et violer ta mère");
@@ -176,7 +152,6 @@ if(message.content == "c mon bot"){
 if(message.content == "^^lc qoyri sorai"){
   message.reply("c FÔÔÔ, qoyri et mwa c 100% de love pour la vie !! okéé ?! :rage: ");
 }
-
 if(message.content == "enculé"){
   message.reply("de tes morts");
 }
@@ -201,7 +176,6 @@ if(message.content == "tu viens de rater une cible de plus de 50 metre de haut")
 if(message.content == "battez vous pour la survie de l'humanité"){
  message.reply("FUYEZ POUR VOS VIES. LES FEMMES ET LES ALLEMANDS D'ABORD");
 } 
- 
 if(message.content == "mon père est mort"){
  message.reply("Où est ma chambre bande d'enculé ?");
 } 
